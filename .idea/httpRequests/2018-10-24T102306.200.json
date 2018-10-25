@@ -1,0 +1,390 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p338brimti6fts0g\"",
+ "summary": "skarthikkumarr@gmail.com",
+ "updated": "2018-10-24T13:03:10.434Z",
+ "timeZone": "Asia/Calcutta",
+ "accessRole": "owner",
+ "defaultReminders": [
+  {
+   "method": "popup",
+   "minutes": 30
+  },
+  {
+   "method": "email",
+   "minutes": 30
+  }
+ ],
+ "nextSyncToken": "CNC9yt2Rn94CENC9yt2Rn94CGAU=",
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"2832058469630000\"",
+   "id": "k6bqi7p9pcd65893nthngsclsc",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=azZicWk3cDlwY2Q2NTg5M250aG5nc2Nsc2NfMjAxNDA2MDdUMDAzMDAwWiBza2FydGhpa2t1bWFyckBt",
+   "created": "2014-11-15T05:27:14.000Z",
+   "updated": "2014-11-15T05:27:14.877Z",
+   "summary": "Akka bday",
+   "creator": {
+    "email": "skarthikkumarr@gmail.com",
+    "displayName": "karthik kumar",
+    "self": true
+   },
+   "organizer": {
+    "email": "skarthikkumarr@gmail.com",
+    "displayName": "karthik kumar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2014-06-07T06:00:00+05:30",
+    "timeZone": "Asia/Calcutta"
+   },
+   "end": {
+    "dateTime": "2014-06-07T07:00:00+05:30",
+    "timeZone": "Asia/Calcutta"
+   },
+   "recurrence": [
+    "RRULE:FREQ=YEARLY;WKST=SU"
+   ],
+   "iCalUID": "k6bqi7p9pcd65893nthngsclsc@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2832058852047000\"",
+   "id": "2vrrssapblcktijvaadbmh6eag",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MnZycnNzYXBibGNrdGlqdmFhZGJtaDZlYWdfMjAxNDExMTRUMDAzMDAwWiBza2FydGhpa2t1bWFyckBt",
+   "created": "2014-11-15T05:30:25.000Z",
+   "updated": "2014-11-15T05:30:26.072Z",
+   "summary": "Appa bdayy",
+   "creator": {
+    "email": "skarthikkumarr@gmail.com",
+    "displayName": "karthik kumar",
+    "self": true
+   },
+   "organizer": {
+    "email": "skarthikkumarr@gmail.com",
+    "displayName": "karthik kumar",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2014-11-14T06:00:00+05:30",
+    "timeZone": "Asia/Calcutta"
+   },
+   "end": {
+    "dateTime": "2014-11-14T07:00:00+05:30",
+    "timeZone": "Asia/Calcutta"
+   },
+   "recurrence": [
+    "RRULE:FREQ=YEARLY;WKST=SU"
+   ],
+   "iCalUID": "2vrrssapblcktijvaadbmh6eag@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 10
+     }
+    ]
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"2848713745756000\"",
+   "id": "3bnqcq4tjco183mis1vn9dg2ps",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2JucWNxNHRqY28xODNtaXMxdm45ZGcycHMgc2thcnRoaWtrdW1hcnJAbQ",
+   "created": "2015-02-19T14:41:12.000Z",
+   "updated": "2015-02-19T14:41:12.878Z",
+   "creator": {
+    "email": "skarthikkumarr@gmail.com",
+    "displayName": "karthik kumar",
+    "self": true
+   },
+   "organizer": {
+    "email": "skarthikkumarr@gmail.com",
+    "displayName": "karthik kumar",
+    "self": true
+   },
+   "start": {
+    "date": "2015-02-20"
+   },
+   "end": {
+    "date": "2015-02-21"
+   },
+   "iCalUID": "3bnqcq4tjco183mis1vn9dg2ps@google.com",
+   "sequence": 0,
+   "reminders": {
+    "useDefault": false,
+    "overrides": [
+     {
+      "method": "popup",
+      "minutes": 30
+     },
+     {
+      "method": "email",
+      "minutes": 450
+     }
+    ]
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3048574325850000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpehj6kqpldlk6iobceppn8thhe9q76sjkdhpmqtbed1kmocjccssjcohlchgn6pjeedmjgp1g64s78opjd0pj0",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoajZrcXBsZGxrNmlvYmNlcHBuOHRoaGU5cTc2c2prZGhwbXF0YmVkMWttb2NqY2Nzc2pjb2hsY2hnbjZwamVlZG1qZ3AxZzY0czc4b3BqZDBwajAgc2thcnRoaWtrdW1hcnJAbQ",
+   "created": "2018-04-21T05:05:49.000Z",
+   "updated": "2018-04-21T05:06:02.925Z",
+   "summary": "Mercury (Silent Movie) (U)",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email that you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DN0-aelUGZdX9ppWQeIk5ptKzddyZ3u7PI\n",
+   "location": "AGS Cinemas OMR: Navlur (Screen-1), Chennai, Tamil Nadu, India",
+   "creator": {
+    "email": "skarthikkumarr@gmail.com",
+    "displayName": "karthik kumar",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com",
+    "displayName": "Unknown Organizer"
+   },
+   "start": {
+    "dateTime": "2018-04-21T18:50:00+05:30"
+   },
+   "end": {
+    "dateTime": "2018-04-21T19:50:00+05:30"
+   },
+   "endTimeUnspecified": true,
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9tfjk5mhialvstv1rtsrtlsmunhil2lg96b5dasfnsm8d018tc3h30",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "skarthikkumarr@gmail.com",
+     "displayName": "karthik kumar",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DN0-aelUGZdX9ppWQeIk5ptKzddyZ3u7PI",
+    "title": ""
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3049348709516000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpegs64prm6lnmspr7eko6ot1i6cp6ut32dcs36rj2e4rnadr3c5jm6r3268pjcqjid1o32cb461q6asr86cr30",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVnczY0cHJtNmxubXNwcjdla282b3QxaTZjcDZ1dDMyZGNzMzZyajJlNHJuYWRyM2M1am02cjMyNjhwamNxamlkMW8zMmNiNDYxcTZhc3I4NmNyMzAgc2thcnRoaWtrdW1hcnJAbQ",
+   "created": "2018-04-25T16:38:55.000Z",
+   "updated": "2018-04-25T16:39:14.758Z",
+   "summary": "Avengers: Infinity War (3D) (U/A)",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email that you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DO23DGjUztXrTivAc5iiOIvq8NqYSIT2a8\n",
+   "location": "AGS Cinemas OMR: Navlur (Screen-1), Chennai, Tamil Nadu, India",
+   "creator": {
+    "email": "skarthikkumarr@gmail.com",
+    "displayName": "karthik kumar",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com",
+    "displayName": "Unknown Organizer"
+   },
+   "start": {
+    "dateTime": "2018-04-28T19:10:00+05:30"
+   },
+   "end": {
+    "dateTime": "2018-04-28T20:10:00+05:30"
+   },
+   "endTimeUnspecified": true,
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9t8bgv5onggu0lt232otbk83nbq7u7cagclb236jrhp11d0tesh360",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "skarthikkumarr@gmail.com",
+     "displayName": "karthik kumar",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DO23DGjUztXrTivAc5iiOIvq8NqYSIT2a8",
+    "title": ""
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3075244066662000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpegoncq33dpr36rrfc4p30shkdln3gopk6gp3cshmdlo6cqb1e9i6qdb268pj2sb265l64cppd9q6ushp6ll6e",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVnb25jcTMzZHByMzZycmZjNHAzMHNoa2RsbjNnb3BrNmdwM2NzaG1kbG82Y3FiMWU5aTZxZGIyNjhwajJzYjI2NWw2NGNwcGQ5cTZ1c2hwNmxsNmUgc2thcnRoaWtrdW1hcnJAbQ",
+   "created": "2018-09-22T13:13:53.000Z",
+   "updated": "2018-09-22T13:13:53.331Z",
+   "summary": "U Turn (U/A)",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email that you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMTiIq4YJnlH1BpLtrsxC1cv44fB5b4BRM\n",
+   "location": "AGS Cinemas: T. Nagar (Screen-1), Chennai, Tamil Nadu, India",
+   "creator": {
+    "email": "skarthikkumarr@gmail.com",
+    "displayName": "karthik kumar",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com",
+    "displayName": "Unknown Organizer"
+   },
+   "start": {
+    "dateTime": "2018-09-23T16:05:00+05:30"
+   },
+   "end": {
+    "dateTime": "2018-09-23T17:05:00+05:30"
+   },
+   "endTimeUnspecified": true,
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9t1vhcnv3ooa20r4mn8c4426r6mpfiardm5b231qb1jb39jtor95jg",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "skarthikkumarr@gmail.com",
+     "displayName": "karthik kumar",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMTiIq4YJnlH1BpLtrsxC1cv44fB5b4BRM",
+    "title": ""
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3078293647720000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpehh6cphp75p34cb9dcp6qprm6hn3aqb1d5kn2pbi6gpj2drc65n74qri6dm74qbkc5imep3mcdm6uqrmckrme",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoaDZjcGhwNzVwMzRjYjlkY3A2cXBybTZobjNhcWIxZDVrbjJwYmk2Z3BqMmRyYzY1bjc0cXJpNmRtNzRxYmtjNWltZXAzbWNkbTZ1cXJtY2tybWUgc2thcnRoaWtrdW1hcnJAbQ",
+   "created": "2018-10-10T04:47:03.000Z",
+   "updated": "2018-10-10T04:47:03.860Z",
+   "summary": "96 (U)",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email that you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMHoM3b2oN_mM72pP3lTKLlYgp6vXc5b2s\n",
+   "location": "AGS Cinemas OMR: Navlur (Screen-4), Chennai, Tamil Nadu, India",
+   "creator": {
+    "email": "skarthikkumarr@gmail.com",
+    "displayName": "karthik kumar",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com",
+    "displayName": "Unknown Organizer"
+   },
+   "start": {
+    "dateTime": "2018-10-10T22:10:00+05:30"
+   },
+   "end": {
+    "dateTime": "2018-10-10T23:10:00+05:30"
+   },
+   "endTimeUnspecified": true,
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9tbff99r21ik2mgv4n5iaiiqer4317l1nrkr3lritaegdvclokve7g",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "skarthikkumarr@gmail.com",
+     "displayName": "karthik kumar",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DMHoM3b2oN_mM72pP3lTKLlYgp6vXc5b2s",
+    "title": ""
+   }
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3078822367006000\"",
+   "id": "_6tlnaqrle5p6cpb4dhmj4phpehkmmp9gedn62rrme8sj4rr8clmm6c396coj2pr4chr74tbkdhp66pb9dsqmkt9ndpl78drkctl3icjadphme",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=XzZ0bG5hcXJsZTVwNmNwYjRkaG1qNHBocGVoa21tcDlnZWRuNjJycm1lOHNqNHJyOGNsbW02YzM5NmNvajJwcjRjaHI3NHRia2RocDY2cGI5ZHNxbWt0OW5kcGw3OGRya2N0bDNpY2phZHBobWUgc2thcnRoaWtrdW1hcnJAbQ",
+   "created": "2018-10-13T06:13:03.000Z",
+   "updated": "2018-10-13T06:13:03.503Z",
+   "summary": "Ratsasan (U/A)",
+   "description": "To see detailed information for automatically created events like this one, use the official Google Calendar app. https://g.co/calendar\n\nThis event was created from an email that you received in Gmail. https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNsZ-bF8cYvbtbqm2bs6WTVFcYyGIMwxRg\n",
+   "location": "AGS Cinemas OMR: Navlur(Screen-1), Chennai, Tamil Nadu, India",
+   "creator": {
+    "email": "skarthikkumarr@gmail.com",
+    "displayName": "karthik kumar",
+    "self": true
+   },
+   "organizer": {
+    "email": "unknownorganizer@calendar.google.com",
+    "displayName": "Unknown Organizer"
+   },
+   "start": {
+    "dateTime": "2018-10-14T19:45:00+05:30"
+   },
+   "end": {
+    "dateTime": "2018-10-14T20:45:00+05:30"
+   },
+   "endTimeUnspecified": true,
+   "transparency": "transparent",
+   "visibility": "private",
+   "iCalUID": "7kukuqrfedlm2f9tike0snaovr92ohemc0i311gddvrutlrceio5ju7njt7tgj92jncg",
+   "sequence": 0,
+   "attendees": [
+    {
+     "email": "skarthikkumarr@gmail.com",
+     "displayName": "karthik kumar",
+     "self": true,
+     "responseStatus": "accepted"
+    }
+   ],
+   "guestsCanInviteOthers": false,
+   "privateCopy": true,
+   "reminders": {
+    "useDefault": true
+   },
+   "source": {
+    "url": "https://mail.google.com/mail?extsrc=cal&plid=ACUX6DNsZ-bF8cYvbtbqm2bs6WTVFcYyGIMwxRg",
+    "title": ""
+   }
+  }
+ ]
+}

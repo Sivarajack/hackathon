@@ -1,0 +1,106 @@
+#details{
+    width: 100%;
+    height: 600px;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+#assistant{
+    font-family: 'Merriweather', serif;
+    font-weight: bold;
+    color: #00008bd9;
+}
+#cards-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+#cards{
+    width: 30%;
+    height:400px;
+    display: flex;
+    flex-direction: column;
+}
+.card-image{
+    height: 50%;
+}
+.card-image>img{
+    height: 100%;
+    width: 100%;
+}
+
+#travel-detail{
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+}
+#place{
+    font-weight: bolder;
+    height: 100%;
+    width: 40%;
+    text-align: center;
+    margin-top: 10px;
+    color: rebeccapurple;
+ }
+#flight-logo{
+    margin-top: 13px;
+    height: 100%;
+    transform: rotate(90deg);
+    width: 20%;
+}
+.custom-modal{
+    width: 50%;
+    text-align: center;
+}
+#autoBookForm{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+}
+.form-container{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    width: 33%;
+}
+.formContent{
+    text-align: center;
+    width:50%
+}
+#buttonContainer{
+    width: 100%;
+    text-align: center;
+    margin-top: 15px;
+}
+#buttonContainer>button{
+    margin-right: 20px;
+}
+
+.expandable {
+    background: #fff;
+    overflow: hidden;
+
+    transition: all .5s ease-in-out;
+    line-height: 0;
+    padding: 0 1em;
+    color: transparent;
+}
+
+.expandable:target {
+    line-height: 1.5;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    color: black;
+}
+
+#autobookcontainer{
+    display: flex;
+    flex-direction: row;
+}
+#probablity{
+    width:15% ;
+    text-align: center;
+    color: lightslategrey;
+    padding-left: 50px;
+}
+
